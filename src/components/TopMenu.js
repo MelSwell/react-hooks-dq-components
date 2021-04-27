@@ -1,4 +1,5 @@
 import React from "react";
+import GenrePicker from "./GenrePicker";
 
 function TopMenu() {
   return (
